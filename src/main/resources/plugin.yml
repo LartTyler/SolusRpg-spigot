@@ -1,0 +1,3 @@
+name: SolusRpg
+main: me.dbstudios.solusrpg.plugin.SolusRpgPlugin
+version: 5.0.0
