@@ -1,6 +1,6 @@
 package me.dbstudios.solusrpg.player;
 
-import java.util.UUID;.
+import java.util.UUID;
 
 public interface RpgPlayer {
 	public String getName();
