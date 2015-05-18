@@ -10,6 +10,8 @@ import me.dbstudios.solusrpg.player.RpgPlayer;
 import org.bukkit.entity.Player;
 
 public final class RpgPlayerManager {
+	public static final String VERSION = '4.0.0';
+
 	private static RpgPlayerManager instance = null;
 
 	private Map<UUID, RpgPlayer> players = new HashMap<>();
