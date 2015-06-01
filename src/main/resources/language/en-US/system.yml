@@ -1,0 +1,2 @@
+files:
+    write-error: "%1$s is not writeable. Please check the file permissions and reload SolusRpg."
